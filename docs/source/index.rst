@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+W88 - w88vn.us - nền tảng cá cược trực tuyến hàng đầu tại châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `W88 <https://w88vn.us/>`_ là một trong những nền tảng cá cược trực tuyến hàng đầu tại châu Á, nổi bật với danh tiếng vững chắc và dịch vụ chất lượng cao. Được thành lập vào năm 2013, W88 nhanh chóng khẳng định vị thế của mình trong ngành công nghiệp cá cược nhờ vào sự kết hợp hoàn hảo giữa các trò chơi cá cược thể thao, casino trực tuyến, và trò chơi slot đa dạng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+W88vn.us được cấp phép hoạt động bởi các cơ quan quản lý uy tín, đảm bảo sự công bằng và an toàn cho người chơi. W88 cũng nổi bật với các chương trình khuyến mãi hấp dẫn và dịch vụ khách hàng tận tâm, sẵn sàng hỗ trợ 24/7, mang lại trải nghiệm cá cược thú vị và giây phút tuyệt vời cho người dùng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 444 Đ. Âu Cơ, Phường 10, Tân Bình, Hồ Chí Minh 700000, Việt Nam
 
-Contents
---------
+Phone: 0879953265
 
-.. toctree::
+Email: w88@w88vn.us
 
-   usage
-   api
+Website: https://w88vn.us/
+
+#w88 #w_88 #w88_vn #w88vn #w88vn_us #nhacaiw88 #w88casino #w88club #w88_club
